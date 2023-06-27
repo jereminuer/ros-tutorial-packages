@@ -1,0 +1,23 @@
+running develop
+Removing /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf-controller.egg-link (link to .)
+running egg_info
+writing ../build/urdf_controller/urdf_controller.egg-info/PKG-INFO
+writing dependency_links to ../build/urdf_controller/urdf_controller.egg-info/dependency_links.txt
+writing entry points to ../build/urdf_controller/urdf_controller.egg-info/entry_points.txt
+writing requirements to ../build/urdf_controller/urdf_controller.egg-info/requires.txt
+writing top-level names to ../build/urdf_controller/urdf_controller.egg-info/top_level.txt
+reading manifest file '../build/urdf_controller/urdf_controller.egg-info/SOURCES.txt'
+writing manifest file '../build/urdf_controller/urdf_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller
+copying /home/jeremi/ros2_ws/src/build/urdf_controller/build/lib/urdf_controller/__init__.py -> /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller
+byte-compiling /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/jeremi/ros2_ws/src/install/urdf_controller/share/urdf_controller
+running install_egg_info
+Copying ../build/urdf_controller/urdf_controller.egg-info to /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/jeremi/ros2_ws/src/build/urdf_controller/install.log'

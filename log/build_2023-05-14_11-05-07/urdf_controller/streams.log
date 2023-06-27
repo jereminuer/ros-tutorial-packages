@@ -1,0 +1,24 @@
+[0.781s] Invoking command in '/home/jeremi/ros2_ws/src/build/urdf_controller': PYTHONPATH=/home/jeremi/ros2_ws/src/build/urdf_controller/prefix_override:/home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jeremi/ros2_ws/src/build/urdf_controller/build
+[1.169s] running develop
+[1.398s] Invoked command in '/home/jeremi/ros2_ws/src/build/urdf_controller' returned '0': PYTHONPATH=/home/jeremi/ros2_ws/src/build/urdf_controller/prefix_override:/home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/jeremi/ros2_ws/src/build/urdf_controller/build
+[1.399s] Invoking command in '/home/jeremi/ros2_ws/src/urdf_controller': PYTHONPATH=/home/jeremi/ros2_ws/src/build/urdf_controller/prefix_override:/home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/urdf_controller build --build-base /home/jeremi/ros2_ws/src/build/urdf_controller/build install --record /home/jeremi/ros2_ws/src/build/urdf_controller/install.log --single-version-externally-managed
+[1.701s] running egg_info
+[1.707s] writing ../build/urdf_controller/urdf_controller.egg-info/PKG-INFO
+[1.710s] writing dependency_links to ../build/urdf_controller/urdf_controller.egg-info/dependency_links.txt
+[1.712s] writing entry points to ../build/urdf_controller/urdf_controller.egg-info/entry_points.txt
+[1.714s] writing requirements to ../build/urdf_controller/urdf_controller.egg-info/requires.txt
+[1.717s] writing top-level names to ../build/urdf_controller/urdf_controller.egg-info/top_level.txt
+[1.721s] reading manifest file '../build/urdf_controller/urdf_controller.egg-info/SOURCES.txt'
+[1.724s] writing manifest file '../build/urdf_controller/urdf_controller.egg-info/SOURCES.txt'
+[1.726s] running build
+[1.727s] running build_py
+[1.728s] running install
+[1.730s] running install_lib
+[1.732s] running install_data
+[1.735s] copying urdf/myfirst.urdf -> /home/jeremi/ros2_ws/src/install/urdf_controller/share/urdf_controller
+[1.737s] running install_egg_info
+[1.739s] removing '/home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.741s] Copying ../build/urdf_controller/urdf_controller.egg-info to /home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages/urdf_controller-0.0.0-py3.10.egg-info
+[1.750s] running install_scripts
+[1.785s] writing list of installed files to '/home/jeremi/ros2_ws/src/build/urdf_controller/install.log'
+[1.814s] Invoked command in '/home/jeremi/ros2_ws/src/urdf_controller' returned '0': PYTHONPATH=/home/jeremi/ros2_ws/src/build/urdf_controller/prefix_override:/home/jeremi/ros2_ws/src/install/urdf_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/urdf_controller build --build-base /home/jeremi/ros2_ws/src/build/urdf_controller/build install --record /home/jeremi/ros2_ws/src/build/urdf_controller/install.log --single-version-externally-managed
